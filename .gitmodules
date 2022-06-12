@@ -1,0 +1,3 @@
+[submodule "include/TinyEngine"]
+	path = include/TinyEngine
+	url = https://github.com/weigert/TinyEngine.git
